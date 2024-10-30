@@ -1,0 +1,18 @@
+Biblioteca vaciada
+Libro agregado: Blasfemus
+Libro agregado: Blasfemus
+Libro agregado: Juego de Tronos 
+Libro agregado: Juego de Tronos
+Libro solicitado: Juego de Tronos
+Libro agregado: Juego de Tronos
+Libro devuelto: Juego de Tronos
+Libro agregado: Juego de Tronos
+Libro agregado: Aracnido 
+Libros ordenados
+Libro agregado: Juego de Tronos
+Libro agregado: Aracnido
+Libro agregado: Blasfemi
+Libros ordenados
+Libro solicitado: Juego de Tronos
+Libro agregado: Juego de Tronos
+Libro devuelto: Juego de Tronos
